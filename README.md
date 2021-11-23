@@ -28,3 +28,5 @@ devided code to Group,Site and GroupsoiteMatch
 to get the correct encapsulation of objects
 to improve the code i would have used the builder(to initialize the objects) 
 and factory(to create Group or site) design pattern and 
+
+
