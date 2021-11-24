@@ -32,3 +32,5 @@ and factory(to create Group or site) design pattern and
 I have used HashSet DataStructure to efficiently save sites the groups desire without repitations
 I have used HashMap DataStructure to efficiently get the maximum group size for a site
 I have used LinkedList DataStructure to efficiently return the sites the groups desire
+
+Amiel Peled
