@@ -1,10 +1,10 @@
 Running instructions:
 
-1.to run the test of the calculator,
+1.RUNNING the test of the calculator,
 go to the terminal when on the root of the project
 and write gradle test
 
-2.to run the java Question
+2.RUNNING the java Question
 use (on intellij ide)
 the gree run button on the left of the start of the main code
 on class:
@@ -28,3 +28,7 @@ devided code to Group,Site and GroupsoiteMatch
 to get the correct encapsulation of objects
 to improve the code i would have used the builder(to initialize the objects) 
 and factory(to create Group or site) design pattern and 
+
+I have used HashSet DataStructure to efficiently save sites the groups desire without repitations
+I have used HashMap DataStructure to efficiently get the maximum group size for a site
+I have used LinkedList DataStructure to efficiently return the sites the groups desire
